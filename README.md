@@ -15,4 +15,4 @@ legeladotabb cipők feltüntetése
 
 elérhetőségek feltüntetése
 
-ujonnan érkező termékek feltüntetése
+újonnan érkező termékek feltüntetése
