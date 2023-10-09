@@ -10,3 +10,7 @@ cipők eladása
 témához illő képvilág
 
 megragadó
+
+legeladotabb cipők feltüntetése
+elérhetőségek feltüntetése
+ujonnan érkező termékek feltüntetése
