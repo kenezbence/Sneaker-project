@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    font-weight: bold;
+    /* text-align: center; */
+}
+p{
+    text-align: center;
+}
+
+.first-col {
+    flex: 25%;
+}
+
+.second-col {
+    flex: 25%;
+    }
+
+.third-col{
+    flex: 25%;
+}
+.fourth{
+    flex: 25%;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.btn {
+    background-color: white;
+    color: black;
+    border-radius: 25%;
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+}
+.btn-email{
+    text-align: center;
+}
