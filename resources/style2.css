@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    font-weight: bold;
+    /* text-align: center; */
+}
+p{
+    text-align: center;
+}
+
+.first-col {
+    flex: 25%;
+}
+
+.second-col {
+    flex: 25%;
+    }
+
+.third-col{
+    flex: 25%;
+}
+.fourth{
+    flex: 25%;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+
+}
