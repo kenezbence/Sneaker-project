@@ -1,0 +1,23 @@
+body {
+    background-image: url(jordan.png.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     height: 100vh;   } 
+
+
+.bg-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    color: white;
+    
+    
+}
+
+
+.button {
+ color: white;
+text-decoration: none;
+} 
