@@ -1,19 +1,31 @@
 .sneakers {
     height: auto;
     width: 250px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
-h1 {
+.sellers {
     text-align: center;
     font-size: 50px;
+    font-weight: bold;
+    padding: 30px;
 }
 
 .termek {
     font-weight: bold;
     color: gray;
+    text-align: center;
 }
 
 .ar {
     color: gray;
+    text-align: center;
+}
+
+section {
+    background-color: gainsboro;
+    padding-bottom: 100px;
 }
