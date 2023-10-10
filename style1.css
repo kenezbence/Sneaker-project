@@ -1,0 +1,36 @@
+    section {
+    background-image: url(jordan.png.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+        background-size: cover;
+        height: 100vh;
+        
+   
+
+      
+}
+
+h1 {
+    font-size: 600%;
+    color: #ffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+
+}
+
+h2 {
+        color: white;
+        text-align: center;
+        height: 50%;
+        vertical-align: middle;
+}
+
+
+.button {
+ color: white;
+text-decoration: none;
+}
